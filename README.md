@@ -3,9 +3,8 @@
 
 
 <ul>
-    <ol></ol>
-    <ol></ol>
-    <ol></ol>
+    <ol>Created multiple choice questions with a single answer choice</ol>
+   
 </ul>
 
 <h1>Credits<h1>
@@ -17,15 +16,12 @@
 <h1>Features</h1>
 
 <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>JavaScript</li>
+    <li>Multiple Choice Quiz</li>
+   
 </ul>
 
 <h1>License</H1>
-
-
 
 MIT License
 

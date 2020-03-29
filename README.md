@@ -1,4 +1,4 @@
-<h1>#Code Quiz</h1>
+<h1>Code Quiz</h1>
 
 
 <ul>
